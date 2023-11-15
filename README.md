@@ -63,7 +63,9 @@ Quando a denúncia for concluída, ela será direcionada para o e-mail de denún
 - Diretoria de Diversidade Sexual e Gênero
 - Diretoria de Saúde e Meio-Ambiente
 - Diretoria de Diversidade Étnica
-- Não sei dizer...
+- Assistência Estudantil
+- Assuntos Educacionais
+- Não sei dizer
 
 <img src="https://i.ibb.co/hLS546s/Captura-de-tela-2023-10-23-225748.jpg" width="300px"/>
 
